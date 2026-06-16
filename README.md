@@ -1,24 +1,17 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/v3/api/1?type=wave&color=0A66C2&height=120&section=header&text=Dario%20LM%20Pimentel&fontSize=40&fontAlign=50&fontColor=ffffff" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=wave&color=0A66C2&height=120&section=header&text=Dario%20LM%20Pimentel&fontSize=40&fontAlign=50&fontColor=ffffff" alt="Dario LM Pimentel" />
   
   <h2>Hi, I'm <strong>Dario LM Pimentel</strong> 👋</h2>
   <h3>Computer Science student | Turning ideas into functional and beautiful apps</h3>
 
   <p>
-    Apaixonado por criar coisas que funcionam bem e têm uma ótima aparência. <br>
-    Atualmente estudando fundamentos de <strong>C</strong> para construir uma base sólida, enquanto exploro <strong>React Native</strong>, <strong>Next.js</strong> e o ecossistema moderno de web e mobile.
+    Apaixonado por criar coisas que funcionam bem e têm ótima aparência.<br>
+    Atualmente estudando fundamentos de <strong>C</strong>, enquanto exploro <strong>React Native</strong>, <strong>Next.js</strong> e o ecossistema moderno.
   </p>
 
   <p>
-    Aprendo fazendo: pequenos projetos, muitos bugs e ainda mais debugging. Sempre aberto a colaborações, feedback e trocar experiências no mundo dev!
+    Aprendo na prática: projetos pequenos, muitos bugs e bastante debugging! 🚀
   </p>
-
-  <a href="https://www.linkedin.com/in/darpimen11/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://www.freecodecamp.org/darpimen11">
-    <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?style=for-the-badge&logo=freecodecamp&logoColor=white" alt="freeCodeCamp" />
-  </a>
 </div>
 
 ---
